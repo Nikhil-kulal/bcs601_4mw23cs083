@@ -211,7 +211,7 @@ git commit -m "Initial Commit"
 ### 4. Connect GitHub Repository
 
 ```bash
-git remote add origin https://github.com/yourusername/bcs601_4mw23cs083.git
+git remote add origin https://github.com/Nikhil-kulal/bcs601_4mw23cs083.git
 ```
 
 ### 5. Push Code
@@ -249,10 +249,10 @@ bcs601_4mw23cs083
 ## Deployment URL
 
 ```text
-https://your-netlify-app-url.netlify.app/
+https://bcs601-4mw23cs083.netlify.app/
 ```
 
-(Replace with your actual deployed URL)
+
 
 ---
 
@@ -261,10 +261,10 @@ https://your-netlify-app-url.netlify.app/
 Repository Link:
 
 ```text
-https://github.com/yourusername/bcs601_4mw23cs083
+https://github.com/Nikhil-kulal/bcs601_4mw23cs083
 ```
 
-(Replace with your actual GitHub repository link)
+
 
 ---
 
